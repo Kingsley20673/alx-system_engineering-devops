@@ -1,1 +1,4 @@
-command to show the working directory
+#!/bin/bash
+command to show the working directory                                 
+
+
