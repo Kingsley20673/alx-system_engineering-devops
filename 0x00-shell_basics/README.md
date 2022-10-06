@@ -1,1 +1,1 @@
-this is getting hard
+‘This repository contains solutions to shell tasks’
